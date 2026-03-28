@@ -1,0 +1,11 @@
+Alert simulation commands:
+
+sudo -k
+sudo ls (wrong password)
+
+ssh fakeuser@localhost
+
+sudo useradd attacker
+
+touch /etc/test_alert
+
