@@ -1,6 +1,0 @@
-🏗️ Architecture
-
-Windows Server → Wazuh Agent  
-Ubuntu Server → Wazuh Manager  
-               → Elasticsearch  
-               → Wazuh Dashboard  
